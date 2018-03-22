@@ -1,4 +1,4 @@
-class Task():
+class Task:
     def __init__(self, name, phase, ex_time, period, deadline):
         self.phase = phase
         self.ex_time = ex_time
